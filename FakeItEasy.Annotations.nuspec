@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>FakeItEasy.Annotations</id>
+    <title>FakeItEasy Annotations</title>
+    <version>1.0.0-beta002</version>
+    <authors>FakeItEasy Annotations contributors</authors>
+    <description>ReSharper External Annotations for the FakeItEasy library</description>
+    <projectUrl>https://github.com/blairconrad/FakeItEasy-annotations</projectUrl>
+    <licenseUrl>http://unlicense.org</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <dependencies>
+      <dependency id="Wave" version="[4.0]" />
+    </dependencies>
+    <tags>FakeItEasy Annotations ReSharper</tags>
+    <developmentDependency>true</developmentDependency>
+  </metadata>
+  <files>
+    <file src="DotFiles/**" />
+  </files>
+</package>
