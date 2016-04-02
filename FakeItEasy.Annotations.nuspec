@@ -3,10 +3,11 @@
   <metadata>
     <id>FakeItEasy.Annotations</id>
     <title>FakeItEasy Annotations</title>
-    <version>1.0.0-beta002</version>
+    <version>1.0.0-beta004</version>
     <authors>FakeItEasy Annotations contributors</authors>
     <description>ReSharper External Annotations for the FakeItEasy library</description>
     <projectUrl>https://github.com/blairconrad/FakeItEasy-annotations</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/blairconrad/FakeItEasy-annotations/master/assets/FakeItEasy-annotation-icon.128x128.png</iconUrl>
     <licenseUrl>http://unlicense.org</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <dependencies>
